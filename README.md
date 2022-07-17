@@ -1,2 +1,2 @@
 # ensicord-addons
-Addons repository for Ensicord
+Add-ons repository for Ensicord
