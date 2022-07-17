@@ -4,7 +4,11 @@
   "description": "Soon in Ensicord v1.4"
  },
  {
-  "name": "Test addon",
+  "name": "Add-ons screen scroll test",
+  "description": "For testing purposes as well\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n=== END ==="
+ },
+ {
+  "name": "Test add-on",
   "description": "For testing purposes"
  }
 ]
