@@ -1,14 +1,21 @@
 [
  {
   "name": "Ensicord add-ons",
-  "description": "Soon in Ensicord v1.4"
+  "description": "Does nothing, but probably helps you test add-ons"
  },
  {
-  "name": "Test add-on",
-  "description": "For testing purposes"
+  "name": "Set theme to system",
+  "description": "Makes Ensicord follow your system theme",
+  "setAppTheme": "SYSTEM"
  },
  {
-  "name": "Add-ons screen scroll test",
-  "description": "For testing purposes as well\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n=== END ==="
+  "name": "Set theme to light",
+  "description": "Sets Ensicord theme to light, i dont think you'd like to apply this",
+  "setAppTheme": "LIGHT"
+ },
+ {
+  "name": "Set theme to dark",
+  "description": "Sets Ensicord theme to dark, best add-on",
+  "setAppTheme": "DARK"
  }
 ]
