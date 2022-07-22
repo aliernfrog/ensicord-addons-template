@@ -1,31 +1,31 @@
 [
-2{
-22"name": "Ensicord add-ons",
-22"description": "Does nothing, but probably helps you test add-ons"
-2},
-2{
-22"name": "Save Ensi",
-22"description": "Sets Ensi's name to the default one",
-22"setEnsiUserName": "Ensi"
-2},
-2{
-22"name": "Ynsi",
-22"description": "Sets Ensi's name to Ynsi",
-22"setEnsiUserName": "Ynsi"
-2},
-2{
-22"name": "Set theme to system",
-22"description": "Makes Ensicord follow your system theme",
-22"setAppTheme": "SYSTEM"
-2},
-2{
-22"name": "Set theme to light",
-22"description": "Sets Ensicord theme to light, i dont think you'd like to apply this",
-22"setAppTheme": "LIGHT"
-2},
-2{
-22"name": "Set theme to dark",
-22"description": "Sets Ensicord theme to dark, best add-on",
-22"setAppTheme": "DARK"
-2}
+  {
+    "name": "Ensicord add-ons",
+    "description": "Does nothing, but probably helps you test add-ons"
+  },
+  {
+    "name": "Save Ensi",
+    "description": "Sets Ensi's name to the default one",
+    "setEnsiUserName": "Ensi"
+  },
+  {
+    "name": "Ynsi",
+    "description": "Sets Ensi's name to Ynsi",
+    "setEnsiUserName": "Ynsi"
+  },
+  {
+    "name": "Set theme to system",
+    "description": "Makes Ensicord follow your system theme",
+    "setAppTheme": "SYSTEM"
+  },
+  {
+    "name": "Set theme to light",
+    "description": "Sets Ensicord theme to light, i dont think you'd like to apply this",
+    "setAppTheme": "LIGHT"
+  },
+  {
+    "name": "Set theme to dark",
+    "description": "Sets Ensicord theme to dark, best add-on",
+    "setAppTheme": "DARK"
+  }
 ]
