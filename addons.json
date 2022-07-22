@@ -4,6 +4,16 @@
   "description": "Does nothing, but probably helps you test add-ons"
  },
  {
+  "name": "Save Ensi",
+  "description": "Sets Ensi's name to the default one",
+  "setEnsiUserName": "Ensi"
+ },
+ {
+  "name": "Ynsi",
+  "description": "Sets Ensi's name to Ynsi",
+  "setEnsiUserName": "Ynsi"
+ },
+ {
   "name": "Set theme to system",
   "description": "Makes Ensicord follow your system theme",
   "setAppTheme": "SYSTEM"
