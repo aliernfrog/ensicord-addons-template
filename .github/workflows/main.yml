@@ -2,6 +2,8 @@ name: Create JSON file
 on:
   push:
     branches: [ "main" ]
+    paths:
+      - 'addons/**'
 
 jobs:
   json-from-dir:
@@ -15,7 +17,7 @@ jobs:
           git config user.email "<>"
       - name: Save file
         id: save-file
-        uses: aliernfrog/json-from-dir@main
+        uses: aliernfrog/json-from-dir@v1.0.3
         with:
           folder: "addons"
           output: "addons.json"
