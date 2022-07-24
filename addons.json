@@ -13,6 +13,7 @@
     "description": "Sets Ensi's name to Ynsi",
     "setEnsiUserName": "Ynsi"
   },
+  {},
   {
     "name": "Set theme to system",
     "description": "Makes Ensicord follow your system theme",
