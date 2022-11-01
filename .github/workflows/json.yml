@@ -25,6 +25,6 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          'git commit -m "chore: update addons.json"'
+          git commit -m "chore: update addons.json"
       - name: Push changes
         run: git push
