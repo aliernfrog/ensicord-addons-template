@@ -12,7 +12,8 @@ Add-on repository template for [Ensicord](https://github.com/aliernfrog/ensicord
 - Add-on repositories can be edited in Ensicord
 
 ## 📂 To create your own add-on repository
-- Use [this](https://github.com/aliernfrog/ensicord-addons-template/generate) template
+- Use [this template](https://github.com/aliernfrog/ensicord-addons-template/generate)
+- Go to repository settings > pages and set source as GitHub Actions
 
 ## 🖇️ To create an add-on
 Add-on file template can be found [here](https://github.com/aliernfrog/ensicord-addons-template/blob/main/addon-template.json)
