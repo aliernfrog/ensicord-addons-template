@@ -3,7 +3,7 @@ Add-on repository template for [Ensicord](https://github.com/aliernfrog/ensicord
 
 ## ℹ️ Information
 - Main add-on repository is [here](https://github.com/aliernfrog/ensicord-addons)
-- Add-on file template can be found [here](https://github.com/aliernfrog/ensicord-addons-template/blob/main/addon-template.json)
+- Add-on documentation can be found [here](https://github.com/aliernfrog/ensicord-addons-template/blob/main/ADDON-DOCS.md)
 - ⚠️ Ensicord add-ons are still WIP and they can only be used in [compose branch](https://github.com/aliernfrog/ensicord/tree/compose)
 
 ## ❓ How do Ensicord add-ons work?
@@ -16,7 +16,7 @@ Add-on repository template for [Ensicord](https://github.com/aliernfrog/ensicord
 - Go to repository settings > pages and set source as GitHub Actions
 
 ## 🖇️ To create an add-on
-Add-on file template can be found [here](https://github.com/aliernfrog/ensicord-addons-template/blob/main/addon-template.json)
+Add-on documentation can be found [here](https://github.com/aliernfrog/ensicord-addons-template/blob/main/ADDON-DOCS.md)
 <details>
   <summary>When using GitHub workflow:</summary>
   - Create <code>your-addon.json</code> in <code>addons</code> folder<br>
