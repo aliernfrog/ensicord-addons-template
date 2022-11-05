@@ -1,5 +1,5 @@
 # Ensicord add-ons
-Ensicord add-ons are simple JSON objects which are parsed into [Addon class]() in Ensicord
+Ensicord add-ons are simple JSON objects which are parsed into [Addon class](https://github.com/aliernfrog/ensicord/blob/compose/app/src/main/java/com/aliernfrog/ensicord/data/Addon.kt) in Ensicord
 
 ## Add-on object example
 ```kotlin
@@ -16,7 +16,7 @@ Ensicord add-ons are simple JSON objects which are parsed into [Addon class]() i
 }
 ```
 
-## Description
+### Description
 - `name`: Required, name of the add-on
 - `description`: Required, description of the add-on
 - `thumbnailUrl`: Optional, URL of image which will be displayed before add-on name
